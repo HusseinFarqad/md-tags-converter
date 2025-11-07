@@ -2,6 +2,8 @@
 
 A beautiful, fast, and intuitive web tool to adjust markdown header levels instantly. Perfect for content creators, developers, and anyone working with markdown files.
 
+<img width="1470" height="835" alt="image" src="https://github.com/user-attachments/assets/f36e8930-d40e-4c07-9173-a539aefb0819" />
+
 ## ✨ Features
 
 - 🚀 **Instant Conversion** - Real-time header adjustment as you type
@@ -25,15 +27,13 @@ A beautiful, fast, and intuitive web tool to adjust markdown header levels insta
 ## 🚀 Quick Start
 
 ### Option 1: Use Online (Recommended)
-Visit the live demo: **[MD Tags Converter](https://husseinfargad.github.io/md-tags-converter)**
+Visit the live demo: **[MD Tags Converter]([https://husseinfargad.github.io/md-tags-converter](https://www.husseinfarqad.dev/md-tags-converter.html))**
 
 ### Option 2: Download & Use Locally
 1. Download `md-tags-converter.html`
 2. Double-click to open in your browser
 3. Start converting! (Works 100% offline)
 
-### Option 3: Deploy Your Own
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/HusseinFargad/md-tags-converter)
 
 ## 📖 How to Use
 
