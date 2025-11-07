@@ -62,10 +62,6 @@ Visit the live demo: **[MD Tags Converter]([https://husseinfargad.github.io/md-t
 
 All headers maintain their relative hierarchy! 🎯
 
-## 🎨 Screenshot
-
-![MD Tags Converter Interface](screenshot.png)
-
 ## 💡 How It Works
 
 The converter:
