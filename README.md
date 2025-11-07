@@ -27,7 +27,7 @@ A beautiful, fast, and intuitive web tool to adjust markdown header levels insta
 ## 🚀 Quick Start
 
 ### Option 1: Use Online (Recommended)
-Visit the live demo: **[https://husseinfargad.github.io/md-tags-converter](https://www.husseinfarqad.dev/md-tags-converter.html))**
+Visit the live demo: **[https://www.husseinfarqad.dev/md-tags-converter.html](https://www.husseinfarqad.dev/md-tags-converter.html))**
 
 ### Option 2: Download & Use Locally
 1. Download `md-tags-converter.html`
