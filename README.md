@@ -128,13 +128,13 @@ MIT License - feel free to use this tool for any purpose!
 
 ## 🙏 Credits
 
-Created with ❤️ by [Hussein Fargad](https://github.com/HusseinFargad)
+Created with ❤️ by [Hussein Farqad](https://github.com/HusseinFarqad)
 
 ## 📮 Feedback
 
 Have suggestions or found a bug? 
-- Open an [issue](https://github.com/HusseinFargad/md-tags-converter/issues)
-- Or reach out on [GitHub](https://github.com/HusseinFargad)
+- Open an [issue](https://github.com/HusseinFarqad/md-tags-converter/issues)
+- Or reach out on [GitHub](https://github.com/HusseinFarqad)
 
 ## ⭐ Show Your Support
 
